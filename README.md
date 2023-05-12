@@ -18,4 +18,4 @@ A: Make sure that you have entered a real emote id and that the token and id are
 ### This is all under MIT and is free to use!
 
 
-### Made with love by Guilded.gg/u/NotAussie
+### Made with love by https://Guilded.gg/u/NotAussie
